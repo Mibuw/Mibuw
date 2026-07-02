@@ -12,7 +12,10 @@
 | [miPDFvalidator](https://github.com/Mibuw/miPDFvalidator) | Validates electronic signatures (PAdES / XAdES / CAdES / ASiC) via the EU DSS REST API, with PDF verification report | TypeScript / Next.js |
 | [miPDFconvert](https://github.com/Mibuw/miPDFconvert) | Virtual PDF printer for Windows — print from any app to PDF and hand the file to a configurable target application | C / C# / Ghostscript |
 
-▶️ **Live demo:** EUDI Wallet verifier at http://miEUDIverifier.mitterbucher.com:5050
+▶️ **Live demos:**
+
+- EUDI Wallet verifier → http://miEUDIverifier.mitterbucher.com:5050
+- Signature validator (miPDFvalidator) → http://miPDFvalidator.mitterbucher.com:3000
 
 ## 📫 Get in touch
 
