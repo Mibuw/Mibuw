@@ -1,4 +1,4 @@
-# Hi, I'm Wolfgang Mitterbucher 👋
+# Hi, I'm Wolfgang 👋
 
 **Software Engineering & Digital Identity** · Leonding, Austria 🇦🇹
 
