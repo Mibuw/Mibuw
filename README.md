@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Wolfgang Mitterbucher 👋
 
-<!--
-**Mibuw/Mibuw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering & Digital Identity** · Leonding, Austria 🇦🇹
 
-Here are some ideas to get you started:
+25+ years of software development, with a focus on **trusted digital processes**: eIDAS 2, electronic signatures (QES / AES / SES), eID and the **EUDI Wallet** (ARF, OpenID4VP, ISO/IEC 18013-5).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Open-source projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| [miEUDIverifier](https://github.com/Mibuw/miEUDIverifier) | EUDI Wallet verifier (OpenID4VP) reading PID identity data — QR cross-device flow, bilingual web UI, Docker | C# / .NET 8 |
+| [miPDFvalidator](https://github.com/Mibuw/miPDFvalidator) | Validates electronic signatures (PAdES / XAdES / CAdES / ASiC) via the EU DSS REST API, with PDF verification report | TypeScript / Next.js |
+| [miPDFconvert](https://github.com/Mibuw/miPDFconvert) | Virtual PDF printer for Windows — print from any app to PDF and hand the file to a configurable target application | C / C# / Ghostscript |
+
+▶️ **Live demo:** EUDI Wallet verifier at http://miEUDIverifier.mitterbucher.com:5050
+
+## 📫 Get in touch
+
+- 🌐 Website: [www.mitterbucher.com](https://www.mitterbucher.com)
+- 💼 LinkedIn: [wolfgangmitterbucher](https://at.linkedin.com/in/wolfgangmitterbucher)
+- ✉️ office@mitterbucher.com
