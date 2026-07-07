@@ -12,6 +12,7 @@
 | [miSWIYUverifier](https://github.com/Mibuw/miSWIYUverifier) | Swiss E-ID (swiyu Public Beta) verifier reading Beta-ID identity data (OpenID4VP / DCQL) — QR cross-device flow, session REST API, Docker | C# / .NET 10 |
 | [miPDFvalidator](https://github.com/Mibuw/miPDFvalidator) | Validates electronic signatures (PAdES / XAdES / CAdES / ASiC) via the EU DSS REST API, with PDF verification report | TypeScript / Next.js |
 | [miPDFconvert](https://github.com/Mibuw/miPDFconvert) | Virtual PDF printer for Windows — print from any app to PDF and hand the file to a configurable target application | C / C# / Ghostscript |
+| [miPDFsign Community](https://github.com/Mibuw/miPDFsign-Community) | Tablet signature app — captures handwritten signatures with biometric pressure data and embeds them as PAdES (B/T/LT/LTA) into PDFs, incl. QES via ID Austria | C# / .NET 8 / WPF |
 
 ▶️ **Live demos:**
 
