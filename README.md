@@ -1,5 +1,4 @@
-# Hi, I'm Wolfgang 👋
-
+# About me
 **Software Engineering & Digital Identity** · Leonding, Austria 🇦🇹
 
 25+ years of software development, with a focus on **trusted digital processes**: eIDAS 2, electronic signatures (QES / AES / SES), eID and the **EUDI Wallet** (ARF, OpenID4VP, ISO/IEC 18013-5).
