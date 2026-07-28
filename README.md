@@ -22,6 +22,6 @@
 ## 📫 Get in touch
 
 - 🌐 Website: [www.mitterbucher.com](https://www.mitterbucher.com)
-- 🌐 Cloud-signing: [www.cloud-signing.com](https://cloud-signing.com)
+- 🌐 Cloud-signing: [cloud-signing.com](https://cloud-signing.com)
 - 💼 LinkedIn: [wolfgangmitterbucher](https://at.linkedin.com/in/wolfgangmitterbucher)
 - ✉️ office@mitterbucher.com
