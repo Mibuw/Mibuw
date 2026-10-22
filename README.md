@@ -17,7 +17,7 @@
 
 - EUDI Wallet verifier → https://miEUDIverifier.mitterbucher.com
 - Swiss E-ID verifier (miSWIYUverifier) → https://miSWIYUverifier.mitterbucher.com
-- Signature validator (miPDFvalidator) → http://miPDFvalidator.mitterbucher.com
+- Signature validator (miPDFvalidator) → https://miPDFvalidator.mitterbucher.com
 
 ## 📫 Get in touch
 
